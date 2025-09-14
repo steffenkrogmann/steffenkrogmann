@@ -7,3 +7,4 @@ I am using this section to track my learning projects on Codecademy.
 
 ### Data Scientist: Machine Learning
 https://github.com/steffenkrogmann/Python-Syntax-Medical-Insurance-Project-Part-1
+https://github.com/steffenkrogmann/Python-Lists-Medical-Insurance-Estimation
