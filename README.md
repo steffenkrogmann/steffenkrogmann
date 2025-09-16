@@ -3,7 +3,7 @@
 You can also [find me on X](https://x.com/steffenkrogmann).
 
 ## Learning | Codecademy
-I am using this section to track my learning projects on Codecademy.
+I am using this section to track my learning projects and progress on Codecademy.
 
 ### Data Scientist: Machine Learning
 #### Python Fundamentals for Data Science (Part I)
