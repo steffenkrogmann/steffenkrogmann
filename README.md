@@ -14,3 +14,4 @@ https://github.com/steffenkrogmann/Python-Loops-Medical-Insurance-Estimates-vs-C
 https://github.com/steffenkrogmann/fridakahlo
 
 #### Python Fundamentals for Data Science (Part II)
+https://github.com/steffenkrogmann/Python-Strings-Medical-Insurance
