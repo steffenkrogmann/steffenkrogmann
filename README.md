@@ -16,3 +16,5 @@ https://github.com/steffenkrogmann/fridakahlo
 #### Python Fundamentals for Data Science (Part II)
 https://github.com/steffenkrogmann/Python-Strings-Medical-Insurance  
 https://github.com/steffenkrogmann/coded-correspondence  
+https://github.com/steffenkrogmann/hurricane-analysis  
+https://github.com/steffenkrogmann/Python-Dictionaries-Medical-Insurance  
