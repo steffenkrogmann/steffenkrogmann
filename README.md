@@ -69,6 +69,10 @@ https://github.com/steffenkrogmann/mixed-messages
 
 #### 3. Front-End Development
 
+https://github.com/steffenkrogmann/find-your-hat
+
+
+
 #### 4. Back-End Development
 
 #### 5. Full-Stack Development
