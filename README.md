@@ -5,6 +5,7 @@ You can also [find me on X](https://x.com/steffenkrogmann).
 ## Learning | Codecademy
 I am using this section to track my learning projects and progress on Codecademy.
 
+---
 ### I. Data Scientist: Machine Learning
 #### 1. Data Science Foundations
 https://github.com/steffenkrogmann/Python-Syntax-Medical-Insurance-Project-Part-1  
@@ -32,7 +33,7 @@ https://github.com/steffenkrogmann/Python-Classes-Medical-Insurance
 
 #### 6. Machine Learning III
 
-
+---
 ### II. Full-Stack Engineer
 #### 1. Web Development Foundations  
 https://github.com/steffenkrogmann/first-html-project  
