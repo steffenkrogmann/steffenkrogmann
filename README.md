@@ -38,3 +38,14 @@ https://github.com/steffenkrogmann/Python-Classes-Medical-Insurance
 https://github.com/steffenkrogmann/first-html-project  
 https://github.com/steffenkrogmann/dasmoto
 https://github.com/steffenkrogmann/number-guesser
+
+#### 2. Building Interactive Websites
+https://github.com/steffenkrogmann/credit-card-checker
+
+#### 3. Front-End Development
+
+#### 4. Back-End Development
+
+#### 5. Full-Stack Development
+
+#### 6. Interview Prep
